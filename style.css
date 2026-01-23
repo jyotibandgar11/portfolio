@@ -106,7 +106,7 @@ button {
   display: inline-block;
   margin-top: 25px;
   padding: 12px 30px;
-  background: #007bff;
+  background: #00ffd5;;
   color: #fff;
   text-decoration: none;
   border-radius: 6px;
@@ -278,4 +278,5 @@ footer {
   }
 
 }
+
 
