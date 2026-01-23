@@ -47,7 +47,7 @@ nav a {
 }
 
 .hero-text span {
-  color: #0077b6;
+  color: #00b4d8;
 }
 
 .btn-group {
@@ -62,12 +62,12 @@ button, .btn-outline {
 }
 
 button {
-  background: #0077b6;
+  background: #00b4d8;
 }
 
 .btn-outline {
   border: 2px solid #00ffd5;
-  color: #00ffd5;
+  color: #00b4d8;
   text-decoration: none;
 }
 
@@ -99,14 +99,14 @@ button {
 }
 
 .about span {
-  color: #0077b6;
+  color: #00b4d8;
 }
 
 .btn {
   display: inline-block;
   margin-top: 25px;
   padding: 12px 30px;
-  background: #0077b6;
+  background: #00b4d8;
   color: #fff;
   text-decoration: none;
   border-radius: 6px;
@@ -152,7 +152,7 @@ button {
 
 .education-card h3 {
   font-size: 20px;
-  color: #0077b6; /* theme green */
+  color: #00b4d8;
   margin-bottom: 8px;
 }
 
@@ -278,6 +278,7 @@ footer {
   }
 
 }
+
 
 
 
